@@ -1,0 +1,52 @@
+8{
+	padding: 0 auto;
+	margin: 0 auto;
+}
+#container{
+	height: 700px;
+	margin: 0 auto;
+	width: 95%;
+}
+
+.barra{
+	width: 12%;
+	height: 700px;
+	float: left;
+}
+	
+}
+.gris{
+	background-color: #D3D3D3;
+	
+
+}
+.amarillo{
+	background-color: yellow;
+	
+}
+.celeste{
+	background-color: 	#00FFFF;
+	
+}
+.verde{
+	background-color: green;
+	
+
+}
+.rosa{
+	background-color: pink;
+	
+
+}
+.rojo{
+	background-color: red;
+	
+}
+.azul{
+	background-color: blue;
+	
+}
+.negro{
+	background-color: black;
+	
+}
